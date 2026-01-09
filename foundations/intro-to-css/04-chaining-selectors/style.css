@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+
+.avatar.proprotioned{
+    width: 300px;
+    height: auto;
+}
+
+
+.avatar.distorted{
+    width: 200px;
+    height: auto;
+}
+
+/* Edited by CodeMasterAshish  */
