@@ -23,3 +23,20 @@ a {
   /* this removes the line under the links */
   text-decoration: none;
 }
+
+/* This is the changed part here with list  */
+
+.header{
+  display: flex;
+  padding: 8px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 8px;
+}
+
+/* This is the edited by CodeMasterAshish */
