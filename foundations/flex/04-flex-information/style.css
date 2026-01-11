@@ -24,3 +24,24 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* This is edited version */
+.title{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.spices{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 52px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+text{
+  max-width: 200px;
+}
